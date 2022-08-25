@@ -1,0 +1,23 @@
+{
+  "name": "article-parser",
+  "version": "1.0.0",
+  "description": "This is wrapper to CJS modules from https://github.com/ndaidong/article-parser",
+  "main": "articleParser.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgolden/article-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgolden/article-parser/issues"
+  },
+  "homepage": "https://github.com/georgolden/article-parser#readme",
+  "dependencies": {
+    "article-parser": "^7.0.1"
+  }
+}
